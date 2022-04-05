@@ -1,0 +1,14 @@
+C:\Users\zustz\source\repos\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.AssemblyInfoInputs.cache
+C:\Users\zustz\source\repos\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.AssemblyInfo.cs
+C:\Users\zustz\source\repos\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.csproj.CoreCompileInputs.cache
+C:\Users\zustz\source\repos\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.exe
+C:\Users\zustz\source\repos\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.deps.json
+C:\Users\zustz\source\repos\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.runtimeconfig.json
+C:\Users\zustz\source\repos\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.runtimeconfig.dev.json
+C:\Users\zustz\source\repos\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.dll
+C:\Users\zustz\source\repos\Statement\Statement\bin\Debug\netcoreapp3.1\Statement.pdb
+C:\Users\zustz\source\repos\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.dll
+C:\Users\zustz\source\repos\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.pdb
+C:\Users\zustz\source\repos\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.genruntimeconfig.cache
+C:\Users\zustz\source\repos\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.csproj.AssemblyReference.cache
+C:\Users\zustz\source\repos\Statement\Statement\obj\Debug\netcoreapp3.1\Statement.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,14 @@
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\bin\Debug\netcoreapp3.1\BT_Lesson1.exe
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\bin\Debug\netcoreapp3.1\BT_Lesson1.deps.json
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\bin\Debug\netcoreapp3.1\BT_Lesson1.runtimeconfig.json
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\bin\Debug\netcoreapp3.1\BT_Lesson1.runtimeconfig.dev.json
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\bin\Debug\netcoreapp3.1\BT_Lesson1.dll
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\bin\Debug\netcoreapp3.1\BT_Lesson1.pdb
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\obj\Debug\netcoreapp3.1\BT_Lesson1.csproj.AssemblyReference.cache
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\obj\Debug\netcoreapp3.1\BT_Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\obj\Debug\netcoreapp3.1\BT_Lesson1.AssemblyInfoInputs.cache
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\obj\Debug\netcoreapp3.1\BT_Lesson1.AssemblyInfo.cs
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\obj\Debug\netcoreapp3.1\BT_Lesson1.csproj.CoreCompileInputs.cache
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\obj\Debug\netcoreapp3.1\BT_Lesson1.dll
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\obj\Debug\netcoreapp3.1\BT_Lesson1.pdb
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\Lesson1\BT_Lesson1\obj\Debug\netcoreapp3.1\BT_Lesson1.genruntimeconfig.cache

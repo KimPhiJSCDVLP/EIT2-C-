@@ -1,0 +1,14 @@
+C:\Users\zustz\source\repos\Statement\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.exe
+C:\Users\zustz\source\repos\Statement\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.deps.json
+C:\Users\zustz\source\repos\Statement\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.runtimeconfig.json
+C:\Users\zustz\source\repos\Statement\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.runtimeconfig.dev.json
+C:\Users\zustz\source\repos\Statement\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.dll
+C:\Users\zustz\source\repos\Statement\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.pdb
+C:\Users\zustz\source\repos\Statement\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.csproj.AssemblyReference.cache
+C:\Users\zustz\source\repos\Statement\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zustz\source\repos\Statement\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.AssemblyInfoInputs.cache
+C:\Users\zustz\source\repos\Statement\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.AssemblyInfo.cs
+C:\Users\zustz\source\repos\Statement\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.csproj.CoreCompileInputs.cache
+C:\Users\zustz\source\repos\Statement\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.dll
+C:\Users\zustz\source\repos\Statement\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.pdb
+C:\Users\zustz\source\repos\Statement\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.genruntimeconfig.cache

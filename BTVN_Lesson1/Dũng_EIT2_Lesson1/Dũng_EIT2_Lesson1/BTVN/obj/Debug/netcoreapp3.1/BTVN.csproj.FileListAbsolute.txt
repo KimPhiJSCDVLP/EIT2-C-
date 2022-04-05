@@ -1,0 +1,14 @@
+C:\Users\pvc31\source\repos\BTVN\BTVN\bin\Debug\netcoreapp3.1\BTVN.exe
+C:\Users\pvc31\source\repos\BTVN\BTVN\bin\Debug\netcoreapp3.1\BTVN.deps.json
+C:\Users\pvc31\source\repos\BTVN\BTVN\bin\Debug\netcoreapp3.1\BTVN.runtimeconfig.json
+C:\Users\pvc31\source\repos\BTVN\BTVN\bin\Debug\netcoreapp3.1\BTVN.runtimeconfig.dev.json
+C:\Users\pvc31\source\repos\BTVN\BTVN\bin\Debug\netcoreapp3.1\BTVN.dll
+C:\Users\pvc31\source\repos\BTVN\BTVN\bin\Debug\netcoreapp3.1\BTVN.pdb
+C:\Users\pvc31\source\repos\BTVN\BTVN\obj\Debug\netcoreapp3.1\BTVN.csproj.AssemblyReference.cache
+C:\Users\pvc31\source\repos\BTVN\BTVN\obj\Debug\netcoreapp3.1\BTVN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvc31\source\repos\BTVN\BTVN\obj\Debug\netcoreapp3.1\BTVN.AssemblyInfoInputs.cache
+C:\Users\pvc31\source\repos\BTVN\BTVN\obj\Debug\netcoreapp3.1\BTVN.AssemblyInfo.cs
+C:\Users\pvc31\source\repos\BTVN\BTVN\obj\Debug\netcoreapp3.1\BTVN.csproj.CoreCompileInputs.cache
+C:\Users\pvc31\source\repos\BTVN\BTVN\obj\Debug\netcoreapp3.1\BTVN.dll
+C:\Users\pvc31\source\repos\BTVN\BTVN\obj\Debug\netcoreapp3.1\BTVN.pdb
+C:\Users\pvc31\source\repos\BTVN\BTVN\obj\Debug\netcoreapp3.1\BTVN.genruntimeconfig.cache
